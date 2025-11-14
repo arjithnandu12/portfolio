@@ -247,7 +247,7 @@ export default function Portfolio() {
 
                 <div className="mt-3 flex gap-2">
                   <a href="https://github.com/arjithnandu12/jobby" target="_blank" rel="noreferrer" className="text-sm px-3 py-2 rounded-md bg-white/4">View Repo</a>
-                  <a href="#projects" className="text-sm px-3 py-2 rounded-md bg-white/4">Open Project</a>
+                  <a href="https://jobby-frontend.onrender.com" className="text-sm px-3 py-2 rounded-md bg-white/4">Open Project</a>
                 </div>
               </div>
             </div>
@@ -388,7 +388,7 @@ export default function Portfolio() {
 
       {/* Footer */}
       <footer className="py-6 md:py-8">
-        <div className="max-w-6xl mx-auto text-center text-sm md:text-base opacity-70">© {new Date().getFullYear()} Arjith Mandula — Crafted with ✨ in a neon lab</div>
+        <div className="max-w-6xl mx-auto text-center text-sm md:text-base opacity-70">© {new Date().getFullYear()} Arjith Mandula</div>
       </footer>
 
       {/* Inline styles for some custom animations and utilities not provided by Tailwind by default */}
